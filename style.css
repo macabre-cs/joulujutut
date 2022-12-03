@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    background-color: lightsteelblue;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #2C3E50;
+}
+
+h2 {
+    color: #212F3D;
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    flex-basis: 40%;
+}
+
+.text {
+    padding-left: 20px;
+    
+}

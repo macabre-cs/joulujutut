@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    background-color: #A9CCE3;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #2980B9;
+}
+
+h2 {
+    color: #2980B9;
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+
